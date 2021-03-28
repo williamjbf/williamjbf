@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi i'm William!👋
+
+I'm a young programmer looking for more knowledge and new projects.
+
+
 
 <!--
 **williamjbf/williamjbf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
